@@ -1,4 +1,4 @@
-# Read Me
+# Read Me for Acme Corp IT 
 
 This repository contains the code for the second class in [Andrew
 Pinkham]'s [Python Web Development] series, titled *Building Backend Web
